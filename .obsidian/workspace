@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "2f11eca41362dcd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "80c6e46235dcc7b7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "c++/Command line arguments.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f82b7e5ee09e4987",
+    "type": "split",
+    "children": [
+      {
+        "id": "935d578863756352",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43abad88bf1cf6e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0039ace1e9bdda7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "std::count",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e399ba14d92e0cda",
+    "type": "split",
+    "children": [
+      {
+        "id": "55dd011af888cff6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfa17d72d37cb38d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "c++/Command line arguments.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5be705a498c6ec86",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "80c6e46235dcc7b7",
+  "lastOpenFiles": [
+    "c++/Command line arguments.md",
+    "c++/standard library algorithms.md",
+    "c++/lambdas.md",
+    "c++/iterators.md",
+    "c++/Arrays, Strings, and Dynamic Allocation/11.10 — C-style string symbolic constants.md"
+  ]
+}

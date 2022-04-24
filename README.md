@@ -1,5 +1,4 @@
 # My code notes
----
 Just my notes for the languages that i think needs notes.
 at the moment this includes:
 * c++
