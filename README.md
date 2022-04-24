@@ -1,8 +1,9 @@
 # My code notes
-Just my notes for the languages that i think needs notes.
-at the moment this includes:
+Just my notes for languages like:
 * c++
 
-there will probably never be added any other languages.
+There will probably never be added any other languages.
 
-To get the full experience use an application called [obsidian](https://obsidian.md/). It is on pacman for arch users *(also on snap if you dont)*. Windows and mac is also supported.
+To get the full experience use a free application called [obsidian](https://obsidian.md/). It is on pacman for arch users *(also on snap if you're not)*. Windows and mac is also supported.
+
+Obsidian is also really good so consider using it yourself.
